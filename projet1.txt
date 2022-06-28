@@ -1,0 +1,36 @@
+                        Comment fonctionne le web ?
+
+le navigateur envoie une requête HTTP au serveur pour lui demander d'envoyer une copie du site web au client . 
+Ce message, et les autres données envoyées entre le client et le serveur,
+ sont échangés par l'intermédiaire de la connexion internet en utilisant TCP/IP.
+
+
+
+
+                    De quoi avez-vous besoin pour être développeur web ?
+
+Un développeur web est par nature un artiste interactif et créatif.
+ C'est quelqu'un qui est animé par un profond désir de créer des choses. 
+Le canevas d'un développeur Web est le navigateur Web d'un utilisateur.
+Il nécessite principalement la maîtrise de ces trois langages : HTML, CSS et JavaScript.
+Les développeurs Web ont besoin d'une combinaison de compétences en conception graphique et 
+ordinateur technique
+ compétences qui leur permettront de créer des conceptions particulières sur des pages Web.
+ Non seulement ils doivent être agréables à regarder, mais les sites Web doivent également être 
+fonctionnel
+ et sécurisé. C'est la responsabilité des développeurs web 
+créer
+ des sites Web qui répondent aux exigences des employeurs ou des clients.
+
+
+
+
+              Pourquoi avez-vous choisi d'apprendre le développement web ?
+
+
+Apprendre de développement web et ses langages de programmation permet aujourd’hui d’ouvrir de nombreuses portes d’opportunités professionnelles.
+
+Ainsi être capable de développer et d’innover, cela peut être enrichissant sur mon plan personnel 
+
+
+
